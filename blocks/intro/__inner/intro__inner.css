@@ -1,0 +1,10 @@
+.intro__inner {
+	width: 984px;
+	margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+	.intro__inner {
+		width: 100%;
+	}
+}
