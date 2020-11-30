@@ -6,9 +6,15 @@
 	object-position: center;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1080px) {
 	.lead__image {
-		width: calc(100% - 96px);
+		width: calc(100% - 98px);
+	}
+}
+
+@media screen and (max-width: 1023px) {
+	.lead__image {
+		width: calc(100% - 48px);
 	}
 }
 
