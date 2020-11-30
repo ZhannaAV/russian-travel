@@ -1,0 +1,13 @@
+.footer-menu__copyright {
+	font-family: "Inter-Regular", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	margin: 0;
+}
+
+@media screen and (max-width: 767px) {
+	.footer-menu__copyright{
+		margin-top: 48px;
+		line-height: 16px;
+	}
+}

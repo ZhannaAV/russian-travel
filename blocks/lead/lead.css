@@ -1,0 +1,10 @@
+.lead {
+	padding-top: 61px;
+	text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+	.lead {
+		padding-top: 48px;
+	}
+}

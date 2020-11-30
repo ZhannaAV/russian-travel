@@ -1,0 +1,19 @@
+.photo-grid {
+	display: -ms-grid;
+	display: grid;
+	grid-gap: 16px;
+	-ms-grid-columns: (minmax(284px, 1fr)) [auto-fit];
+	grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+}
+
+@media screen and (max-width: 375px) {
+	.photo-grid {
+		grid-gap: 14px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.photo-grid {
+		grid-gap: 12px;
+	}
+}

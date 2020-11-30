@@ -1,0 +1,14 @@
+.footer-menu__list-links {
+	list-style: none;
+	padding-left: 0;
+	margin: 0;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+@media screen and (max-width: 767px) {
+	.footer-menu__list-links {
+		flex-direction: column;
+	}
+}
