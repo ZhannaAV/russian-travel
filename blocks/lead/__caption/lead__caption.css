@@ -1,15 +1,18 @@
 .lead__caption {
 	text-align: left;
-	max-width: 984px;
-	margin: 0 auto;
 	font-size: 10px;
 	line-height: 14px;
 	letter-spacing: 0.15em;
-	font-family: "Inter-Regular", Arial, sans-serif;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
 	.lead__caption {
-		width: 100%;
+		padding-left: 24px;
+	}
+}
+
+@media screen and (max-width: 425px) {
+	.lead__caption {
+		padding-left: 16px;
 	}
 }

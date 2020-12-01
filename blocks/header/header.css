@@ -5,11 +5,18 @@
 	-webkit-box-pack: justify;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
-	padding-top: 28px;
+	padding: 28px 48px;
+}
+
+@media screen and (max-width: 1023px) {
+	.header {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
 }
 
 @media screen and (max-width: 425px) {
 	.header {
-		padding-top: 16px;
+		padding: 16px;
 	}
 }
