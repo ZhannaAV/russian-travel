@@ -3,3 +3,9 @@
 	font-size: 12px;
 	line-height: 18px;
 }
+
+@media screen and (max-width: 768px) {
+	.intro__list-item {
+		font-family: "Inter-Bold", Arial, sans-serif;
+	}
+}
