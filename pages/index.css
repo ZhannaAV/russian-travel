@@ -37,7 +37,7 @@
 @import url("../blocks/cover/__subtitle-span/cover__subtitle-span.css");
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer-menu/footer-menu.css");
+@import url("../blocks/footer/__copyright/footer__copyright.css");
 @import url("../blocks/footer-menu/__list-links/footer-menu__list-links.css");
 @import url("../blocks/footer-menu/__list-item/footer-menu__list-item.css");
 @import url("../blocks/footer-menu/__link/footer-menu__link.css");
-@import url("../blocks/footer-menu/__copyright/footer-menu__copyright.css");
