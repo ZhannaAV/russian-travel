@@ -18,6 +18,11 @@
     <list default="true" id="cb32eaf1-48b7-443c-b383-c119931105bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle-span/cover__subtitle-span.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +50,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../how-to-learn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhann\OneDrive\Desktop\Яндекс Практикум\russian-travel\blocks\footer" />
       <recent name="C:\Users\zhann\OneDrive\Desktop\Яндекс Практикум\russian-travel\blocks\header\__logo" />
     </key>
   </component>
@@ -71,7 +77,9 @@
       <workItem from="1606738243450" duration="12082000" />
       <workItem from="1606753388675" duration="2865000" />
       <workItem from="1606811159243" duration="2100000" />
-      <workItem from="1606834014260" duration="20930000" />
+      <workItem from="1606834014260" duration="22035000" />
+      <workItem from="1606892634864" duration="10000" />
+      <workItem from="1606923418687" duration="1301000" />
     </task>
     <servers />
   </component>
@@ -95,10 +103,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="306" y="27" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1606856873132" />
-    <state x="369" y="37" key="FileChooserDialogImpl" timestamp="1606734249728">
+    <state x="369" y="37" key="FileChooserDialogImpl" timestamp="1606892641935">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="369" y="37" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606734249728" />
+    <state x="369" y="37" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606892641935" />
     <state x="94" y="94" width="1092" height="492" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606739255233">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
